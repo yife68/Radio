@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://radio.meuicat.com/post/53/</loc>
+    
+    <lastmod>2022-07-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://radio.meuicat.com/post/52/</loc>
+    
+    <lastmod>2022-07-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://radio.meuicat.com/post/51/</loc>
+    
+    <lastmod>2022-07-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://radio.meuicat.com/post/50/</loc>
+    
+    <lastmod>2022-07-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://radio.meuicat.com/post/49/</loc>
+    
+    <lastmod>2022-07-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://radio.meuicat.com/post/48/</loc>
     
     <lastmod>2022-07-14</lastmod>
@@ -479,13 +524,6 @@
 
   
   <url>
-    <loc>https://radio.meuicat.com/tags/T/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://radio.meuicat.com/tags/X/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -493,7 +531,7 @@
   </url>
   
   <url>
-    <loc>https://radio.meuicat.com/tags/S/</loc>
+    <loc>https://radio.meuicat.com/tags/T/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -507,14 +545,7 @@
   </url>
   
   <url>
-    <loc>https://radio.meuicat.com/tags/N/</loc>
-    <lastmod>2022-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://radio.meuicat.com/tags/F/</loc>
+    <loc>https://radio.meuicat.com/tags/S/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -528,7 +559,21 @@
   </url>
   
   <url>
+    <loc>https://radio.meuicat.com/tags/N/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://radio.meuicat.com/tags/Z/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://radio.meuicat.com/tags/F/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -549,14 +594,14 @@
   </url>
   
   <url>
-    <loc>https://radio.meuicat.com/tags/C/</loc>
+    <loc>https://radio.meuicat.com/tags/R/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://radio.meuicat.com/tags/R/</loc>
+    <loc>https://radio.meuicat.com/tags/C/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -570,7 +615,7 @@
   </url>
   
   <url>
-    <loc>https://radio.meuicat.com/tags/L/</loc>
+    <loc>https://radio.meuicat.com/tags/A/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -584,7 +629,7 @@
   </url>
   
   <url>
-    <loc>https://radio.meuicat.com/tags/A/</loc>
+    <loc>https://radio.meuicat.com/tags/L/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
