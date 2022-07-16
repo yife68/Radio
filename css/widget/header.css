@@ -31,8 +31,9 @@
   align-items: center;
 }
 .header .header-top .h-left a img {
-  width: 36px;
+  width: 105px;
   height: 36px;
+  padding-left: 80px;
 }
 .header .header-top .h-right {
   display: flex;
